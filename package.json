@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/7Ryan/mmall-f/issues"
   },
-  "homepage": "https://github.com/7Ryan/mmall-f#readme"
+  "homepage": "https://github.com/7Ryan/mmall-f#readme",
+  "devDependencies": {
+    "webpack": "^1.15.0"
+  }
 }
