@@ -2,7 +2,7 @@
 * @Author: 7Ryan
 * @Date:   2017-08-06 13:36:15
 * @Last Modified by:   7Ryan
-* @Last Modified time: 2017-08-06 17:03:58
+* @Last Modified time: 2017-08-14 15:31:30
 */
 
 /*css reset*/
@@ -36,6 +36,24 @@ a{
     width: 1080px;
     margin: 0 auto;
     position: relative;
+    overflow: hidden;
+}
+
+/*panel*/
+.panel{
+    padding: 10px;
+    margin-bottom: 10px;
+    background: #fff;
+}
+.panel .panel-title{
+    padding: 10px;
+    font-size: 14px;
+    color: #666;
+    font-weight: bold;
+    border-bottom: 1px solid #eee;
+}
+.panel .panel-body{
+    padding: 10px;
     overflow: hidden;
 }
 

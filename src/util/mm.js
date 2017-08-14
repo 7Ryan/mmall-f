@@ -2,7 +2,7 @@
 * @Author: 7Ryan
 * @Date:   2017-08-05 14:08:45
 * @Last Modified by:   7Ryan
-* @Last Modified time: 2017-08-06 13:31:35
+* @Last Modified time: 2017-08-12 11:49:45
 */
 
 var Hogan = require('hogan');
@@ -78,7 +78,7 @@ var _mm = {
     },
     //统一登录处理
     doLogin: function(){
-        window.location.href = "./login.html?redirect=" + encodeURIComponent(window.location.href);
+        window.location.href = "./user-login.html?redirect=" + encodeURIComponent(window.location.href);
     },
     //跳回首页
     goHome: function(){

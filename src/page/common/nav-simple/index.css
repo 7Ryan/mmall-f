@@ -2,7 +2,7 @@
 * @Author: 7Ryan
 * @Date:   2017-08-06 16:36:33
 * @Last Modified by:   7Ryan
-* @Last Modified time: 2017-08-06 17:11:11
+* @Last Modified time: 2017-08-14 15:18:06
 */
 
 .nav-simple{
@@ -15,4 +15,5 @@
     font-size: 26px;
     font-weight: bold;
     color: #c60023;
+    text-decoration: none;
 }
